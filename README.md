@@ -98,10 +98,12 @@
 
 <div align="center">
   <h3>🔝 Top Contributed Repo</h3>
-  <img src="https://github-contributor-stats.vercel.app/api?username=brittanypallasco2003&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" style="display: block; margin-bottom: 20px;" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=brittanypallasco2003&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+  <br>
   <a href="https://visitcount.itsvg.in" target="_blank">
-    <img src="https://visitcount.itsvg.in/api?id=brittanypallasco2003&icon=0&color=0" alt="Profile visit count" style="display: block; margin-top: 20px;" />
+    <img src="https://visitcount.itsvg.in/api?id=brittanypallasco2003&icon=0&color=0" alt="Profile visit count" style="margin-top: 20px;" />
   </a>
 </div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
