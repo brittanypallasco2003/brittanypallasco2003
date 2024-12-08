@@ -9,7 +9,6 @@
 <p align="left">
 ✨ Creating bugs since 2003<br>
 📚 I'm currently learning Spring Boot<br>
-📫 How to reach me: nohemiespinel0@gmail.com<br>
 🎯 Goals:
 <ul style="margin-top: 0; padding-left: 20px;">
   <li>Dive deeper into technologies and frameworks such as Node.js, Spring Boot, Django, or Express.js.</li>
@@ -69,7 +68,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="mailto:nohemiespinel0@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/>
   </a>
   <a href="https://www.youtube.com/@brittanyespinel4856" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
