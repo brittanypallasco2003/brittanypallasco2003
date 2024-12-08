@@ -11,7 +11,7 @@
 📚 I'm currently learning Spring Boot<br>
 🎯 Goals:
 <ul style="margin-top: 0; padding-left: 20px;">
-  <li>Dive deeper into technologies and frameworks such as Node.js, Spring Boot, Django, or Express.js.</li>
+  <li>Dive deeper into technologies and frameworks such as Node.js, Spring Boot, Django or Express.js.</li>
   <li>Master relational systems (with MySQL and PostgreSQL) and NoSQL (such as MongoDB or Redis).</li>
   <li>Build personal projects related to REST APIs and microservices.
 </ul>
@@ -88,8 +88,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=brittanypallasco2003&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
