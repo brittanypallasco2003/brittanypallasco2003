@@ -95,8 +95,5 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=brittanypallasco2003&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
   <br>
 </div>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/brittanypallasco2003/count.svg?"  />
-</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
