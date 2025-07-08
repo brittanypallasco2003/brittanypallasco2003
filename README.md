@@ -3,9 +3,11 @@
 </div>
 
 <h1 align="center">Hi 👋! My name is Brittany Espinel</h1>
+
 ###
+
 <p align="center">
-  <a href="https://tudominio.com" target="_blank">
+  <a href="https://brittany-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20View%20Portfolio-blue?style=for-the-badge" />
   </a>
 </p>
